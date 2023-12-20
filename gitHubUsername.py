@@ -10,6 +10,7 @@ def get_github_user_data(username):
     url = f"https://api.github.com/users/{username}"
     response = requests.get(url)
     return response.json()
+    
 #return response.json()converts this JSON content into a Python dictionary
 #JSON: GitHub API typically returns data in JSON format
 
