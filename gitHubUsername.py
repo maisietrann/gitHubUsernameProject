@@ -63,7 +63,6 @@ def main():
     for key, value in extracted_data.items():
         print(f"{key}: {value}")
 #key takes on the values 'Followers', 'Following', and 'Repositories'
-
 #value takes on the corresponding counts
 
     # Plot data using Matplotlib
@@ -71,3 +70,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
