@@ -10,3 +10,6 @@ Python 3
 Requests library: pip install requests
 Matplotlib library: pip install matplotlib
 Pandas library: pip install pandas
+
+Instructions: 
+The only thing you have to do for this program is enter a GitHub Username and click "Enter" or "Return" and you will get your results! Thank you for using my program!
